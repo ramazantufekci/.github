@@ -1,1 +1,1 @@
-Güvenlik ile ilgili bir sorun gördüğünüzde Ramazan TÜFEKÇİ Repo
+Güvenlikle ilgili bir sorun fark ettiğinizde, lütfen sorunlar sekmesinden bildirmekten çekinmeyin.
